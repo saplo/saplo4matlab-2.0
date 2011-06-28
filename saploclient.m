@@ -9,7 +9,7 @@
 % response.collection_id
 %
 
-function jsonclient()
+function saploclient()
     dbstop if error;
     
     % List collections
